@@ -35,11 +35,6 @@ This project implements a Siamese Network model for facial image verification us
 
 2. Download the **LFW dataset** (Labelled Faces in the Wild) and extract it to `lfw.tgz`.
 
-## Files
-
-- **Model Training**: Trains the Siamese model on the collected dataset.
-- **Real-Time Test**: Uses OpenCV to capture live images and verify them using the trained Siamese network.
-
 ## Usage
 
 1. **Collecting Images**: Run the script to collect anchor, positive, and negative images. Press:
